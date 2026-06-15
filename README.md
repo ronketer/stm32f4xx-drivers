@@ -15,12 +15,12 @@ each bit configures and why.
 
 The MiniDebugger connects to the core board via SWD (SWDIO, SWCLK, GND, 3V3) — no soldering required on either board.
 <p align="center">
-  <img src="assets/stm32f405_mcu.jpg" alt="STM32F405 core board" width="45%" />
-  <img src="assets/stlink-stm32.jpg" alt="ST-Link MiniDebugger" width="45%" />
+  <img src="assets/stm32f405_mcu.jpg" alt="STM32F405 core board" width="40%" />
+  <img src="assets/stlink-stm32-square.jpg" alt="ST-Link MiniDebugger" width="40%" />
 </p>
 
 <p align="center">
-  <img src="assets/debugger_mcu_connected.jpg" alt="Debugger connected to MCU" width="60%" />
+  <img src="assets/debugger_mcu_connected.jpg" alt="Debugger connected to MCU" width="55%" />
 </p>
 
 ## Toolchain
