@@ -12,3 +12,8 @@ set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_STANDARD_REQUIRED ON)
 
 include(cmake/stm32f405xx.cmake)
+
+# add_subdirectory(drivers)
+# add_subdirectory(bsp)
+# add_subdirectory(exercises/01_gpio/led_toggle)
+add_subdirectory(exercises/03_debugging/hello_world_semihosting)
